@@ -2,3 +2,10 @@ Same in both files
 Local change
 
 Same change in both
+
+Same change in both during Conflict
+
+Conflict locally
+
+
+
