@@ -6,6 +6,4 @@ Same change in both
 Same change in both during conflict
 
 Conflict locally
-
-
-
+Added line way out
