@@ -1,1 +1,10 @@
-This was created in feature-1 branch
+This was created in feature-1 branc
+Same in both files
+Local change
+
+Same change in both
+
+Same change in both during conflict
+
+Conflict locally
+Added line way out
