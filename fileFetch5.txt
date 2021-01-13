@@ -3,7 +3,7 @@ Local change
 
 Same change in both
 
-Same change in both during Conflict
+Same change in both during conflict
 
 Conflict locally
 
